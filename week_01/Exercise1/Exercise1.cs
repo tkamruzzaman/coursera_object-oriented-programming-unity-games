@@ -1,7 +1,7 @@
 
-namespace Exercise1
+namespace Exercise
 {
-    internal class Program
+    internal class Exercise1
     {
         static void Main(string[] args)
         {
